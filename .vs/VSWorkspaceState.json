@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Treehouse.FitnessFrog",
+    "\\Treehouse.FitnessFrog\\Controllers",
+    "\\Treehouse.FitnessFrog\\Data",
+    "\\Treehouse.FitnessFrog\\Models",
+    "\\Treehouse.FitnessFrog\\Views",
+    "\\Treehouse.FitnessFrog\\Views\\Entries"
+  ],
+  "SelectedNode": "\\Treehouse.FitnessFrog\\Data\\EntriesRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
